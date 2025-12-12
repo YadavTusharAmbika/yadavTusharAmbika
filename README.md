@@ -1,3 +1,14 @@
+hii there
+
+Nice meeting you, I'm Tushar !
+
+Ask me about Web development related stuff
+
+How to reach me: Linkedin -tushar-yadav7784
+
+Pronouns: He/His
+
+Fun fact: If I am not coding then I am probably playing games
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/errors404found) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tushar-yadav7784) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yadav Tushar Ambika) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushu8446@gmail.com) 
 
